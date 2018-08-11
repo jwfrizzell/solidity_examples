@@ -1,0 +1,5 @@
+#Compile contracts
+#Deploy IERC20Token contract
+#Deploy TokenSale contract  using IERC20Token contract address and desired token price.
+#Use IERC20Token function transfer() to move coins to TokenSale contract with number of coins to transfer.
+#You should be able to buy tokens from other contracts at this point. 
